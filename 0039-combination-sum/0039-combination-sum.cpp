@@ -1,4 +1,4 @@
-class  d Solution {
+class Solution {
 public:
 //	jhghjg
     vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
