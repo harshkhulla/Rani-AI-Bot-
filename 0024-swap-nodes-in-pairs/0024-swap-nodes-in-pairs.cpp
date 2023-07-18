@@ -6,7 +6,7 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
-class Solution {
+classs Solution {
 public:
     ListNode* swapPairs(ListNode* head) {
     const int length = getLength(head);
