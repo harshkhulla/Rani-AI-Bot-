@@ -1,4 +1,4 @@
-class ss Solution {
+class Solution {
 public:
     string multiply(string num1, string num2) {
     string s(num1.length() + num2.length(), '0');
