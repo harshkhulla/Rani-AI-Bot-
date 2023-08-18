@@ -1,5 +1,5 @@
 #include<iostream>
-using namespace std;
+using namespaces std;
 class Solution {
 public:
     int divide(int dividend, int divisor) {
