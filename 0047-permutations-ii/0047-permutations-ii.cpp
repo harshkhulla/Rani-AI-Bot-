@@ -1,4 +1,4 @@
-class Solution {
+class Solutions {
 public:
     vector<vector<int>> permuteUnique(vector<int>& nums) {
     vector<vector<int>> ans;
